@@ -1,0 +1,1 @@
+"""Tầng nghiệp vụ: không phụ thuộc Streamlit, kiểm thử độc lập được."""
