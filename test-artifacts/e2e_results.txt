@@ -1,0 +1,40 @@
+PASS Setup token sai bị từ chối
+PASS Tạo quản trị viên & vào Tổng quan
+PASS Lưu tên Xứ đoàn hiển thị ở header
+PASS Lưu logo mới
+PASS Nhập 120 thiếu nhi từ Excel
+PASS Tìm theo mã giữ số 0 ở đầu
+PASS Tạo & mở buổi sinh hoạt
+PASS Một chạm → Có mặt được lưu
+PASS Tải lại trang vẫn giữ đăng nhập (cookie ghi nhớ)
+PASS Mobile 390px không cuộn ngang – scrollWidth=390
+PASS Camera trình duyệt quét QR → ghi nhận
+PASS Quét lại cùng thẻ → báo đã điểm danh
+PASS Thẻ của em ngoài phiên → báo không thuộc danh sách
+PASS Nhập mã thủ công tại trang quét
+PASS CSDL: bản ghi QR có method=qr, trạng thái có mặt/trễ
+PASS Xuất báo cáo Excel – bao_cao_diem_danh.xlsx
+PASS Xuất báo cáo PDF
+PASS PDF thẻ (tạo từ giao diện) đọc lại được QR – TNTT:6R5WQ6P38PRM
+PASS Cấp lại thẻ QR: mã cũ bị thay
+PASS Tạo buổi theo lịch
+PASS Sao lưu tải về hợp lệ (120 em)
+PASS Mọi trang mở không lỗi
+PASS Bắt đổi mật khẩu lần đầu
+PASS Huynh trưởng không thấy trang quản trị – Điểm danh
+
+dashboard
+
+Tổng quan
+
+fact_check
+
+Điểm danh
+
+qr_code_scanner
+
+Quét QR
+PASS Huynh trưởng chỉ thấy lớp được phân công
+PASS Truy cập URL trang quản trị bị chặn
+PASS Không có lỗi console JS / HTTP lỗi của ứng dụng – []
+PASS Sau khởi động lại: cấu hình & 120 em còn nguyên
